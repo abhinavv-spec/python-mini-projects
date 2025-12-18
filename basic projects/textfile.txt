@@ -1,0 +1,2 @@
+hello python
+this file is made for wordcounter
