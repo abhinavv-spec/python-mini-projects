@@ -1,0 +1,5 @@
+file = open("textfile.txt","r")
+text = file.read()
+words = text.split()
+print("no of words:",len(words))
+file.close()
